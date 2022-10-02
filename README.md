@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <br/>
 📫  How to reach me: facebook(https://facebook.com) ...
 <br/>
-- ### <span style="color:yellow">심사기간 이후에 소개 및 개인 연락처 복구해 놓겠습니다.</span>
+- ### <span style="color:yellow">심사기간 중이라 소개 및 개인 연락처를 가려놓았습니다.</span>
