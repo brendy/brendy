@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 💬  Ask me about Minecraft education edition ...
 - 📫  How to reach me: facebook(https://facebook.com) ...
 - <span style="color:#0969DA">심사기간 이후에 소개 및 개인 연락처 복구해 놓겠습니다.</span>
+
+<span style="color:red">red</span>
+<span style="color:#d3d3d3">#d3d3d3</span>
+<span style="color:rgb(245, 235, 13)">rgb(245, 235, 13)</span>
