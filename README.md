@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 -->
 
 🌱  I’m currently learning python, lua, roblox, minecraft ...
+<br/>
 💬  Ask me about Minecraft education edition ...
+<br/>
 📫  How to reach me: facebook(https://facebook.com) ...
-
+<br/>
 - ### <span style="color:yellow">심사기간 이후에 소개 및 개인 연락처 복구해 놓겠습니다.</span>
