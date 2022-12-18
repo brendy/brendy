@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <br/>
 📫  How to reach me:
 <br/>
+ㅤㅤhttps://twitter.com/saintjob
+<br/>
 ㅤㅤhttps://facebook.com/saintjob
 <br/>
 ㅤㅤhttps://instagram.com/brendynet
