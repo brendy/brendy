@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 💬  Ask me about Minecraft education edition ...
 <br/>
 📫  How to reach me:
-  - https://twitter.com/saintjob
   - https://facebook.com/saintjob
   - https://instagram.com/brendynet
 <br/>
